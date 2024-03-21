@@ -1,0 +1,38 @@
+pg home - terminada /falta responsa/ (banner!)
+
+pg horários - terminada /falta responsa/ 
+
+pg app - terminada /falta responsa/
+
+pg extensões cdp - terminada /falta responsa/
+
+pg comunicados - terminada /falta responsa/
+
+pg novos caminhos - terminada /falta responsa/
+
+pg cursos técnicos - sendo feita...
+	pgs dos cursos - terminada /falta responsa/
+
+pg emiep - sendo feita...
+	pgs dos cursos - terminada /falta responsa/ 
+
+pg eventos - terminada /falta responsa/ (banner!)
+
+pg instituição - terminada /falta responsa/ (banner!)
+	pg cedup - terminada /falta responsa/ (banner!)
+	pg ppp - terminada /falta responsa/ (banner!)
+	pg cde - sendo feita... (banner!)
+	pg nem - terminada /falta responsa/
+
+pg Alunos - sendo feita... (banner!)
+	pg biblioteca - terminada /falta responsa/
+	pg Estágio - sendo feita...
+	pg Vagas de emprego - terminada /falta responsa/
+	pg enem - sendo feita...
+	pg cardápio - terminada /falta responsa/ (banner!)
+
+pg professores - terminada /falta responsa/ (banner!)
+
+pg secretaria - terminada /falta responsa/ (banner!)
+
+pg contato - terminada /falta responsa/
