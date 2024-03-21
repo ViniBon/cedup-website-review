@@ -1,5 +1,4 @@
-##CEDUP WEBSITE REVIEW
-OVERVIEW
+##CEDUP WEBSITE REVIEW OVERVIEW
 
 Basically this website reformulation was made in 2022 as a final activity of our high school programming classes.
 
