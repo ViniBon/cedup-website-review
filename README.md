@@ -2,7 +2,7 @@
 
 Basically this website reformulation was made in 2022 as a final activity of our high school programming classes.
 
-MEMBERS
+# MEMBERS
 
 The people involved in that work were:
 
