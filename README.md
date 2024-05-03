@@ -4,7 +4,7 @@ Basically this website reformulation was made in 2022 as a final activity of our
 
 ### MEMBERS
 
-The people involved in that work were:
+The people involved in that project were:
 
 [Vitor](https://github.com/vitorglfarias)
 
